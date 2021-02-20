@@ -4,6 +4,7 @@
 #include <string>
 #include <iostream>
 
+using namespace std;
 
 class Book{
 	string title, author, publisher;
